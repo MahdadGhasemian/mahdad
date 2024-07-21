@@ -26,6 +26,12 @@ jobs:
 
       - name: Generate
         run: yarn generate
+      
+      - name: Ensure CNAME file
+        run: echo 'mahdad.me' > ./dist/CNAME
+      
+      - name: Create .nojekyll file
+        run: touch ./dist/.nojekyll
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
