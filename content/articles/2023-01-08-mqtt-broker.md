@@ -1,6 +1,6 @@
 ---
 title: How to config a secure MQTT broker
-tags: mqtt, mqtt broker, mosquitto
+tags: mqtt, mqtt broker, mosquitto, mahdad, mahdad ghasemian
 date: 2023-01-08
 description: Today I'm going to discuss how we can configure a mqtt broker with ssl certificate.
 image: /blog/mqtt-broker-2.png

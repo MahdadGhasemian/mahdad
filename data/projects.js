@@ -1,5 +1,21 @@
 const projectsData = [
   {
+    title: "Hermit Crab (Open Source)",
+    description: `Hermit Crab is a project designed to configure, deploy and manage Kubernetes clusters on bare-metal infrastructure using Ansible and Terraform. `,
+    image: "/img/hermit-crab.png",
+    href: "https://github.com/MahdadGhasemian/hermit-crab",
+    github: "#https://github.com/MahdadGhasemian/hermit-crab",
+    tags: ["Kubernetes", "K3S", "K3S-Ansible", "Minio", "Mahdad", "Mahdad Ghasemian"]
+  },
+  {
+    title: "Octopus (Open Source)",
+    description: `Scalable Microservices Template with NestJS, Kafka, PostgreSQL and Redis (Docker and K8S)`,
+    image: "/img/octopus.png",
+    href: "https://github.com/MahdadGhasemian/octopus",
+    github: "#https://github.com/MahdadGhasemian/octopus",
+    tags: ["Nodejs", "Nestjs", "Microservices", "Backend", "Mahdad", "Mahdad Ghasemian"]
+  },
+  {
     title: "Makancenter (Malaysia)",
     description: ``,
     image: "/img/makancenter.jpg",

@@ -1,6 +1,6 @@
 ---
 title: Restore Backup with Longhorn
-tags: Kubernetes, K3S, Longhorn, Restore, Backup
+tags: Kubernetes, K3S, Longhorn, Restore, Backup, mahdad, mahdad ghasemian
 date: 2024-07-22
 description: Instructions for restoring data using Longhorn backup and restore features.
 image: /blog/longhorn.png
