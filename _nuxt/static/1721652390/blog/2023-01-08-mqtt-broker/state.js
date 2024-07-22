@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1721652390",layout:"default",error:a,serverRendered:true,routePath:"\u002Fblog\u002F2023-01-08-mqtt-broker",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"39e0631c"}},_img:{"/_ipx/_/author.jpg":"\u002F_nuxt\u002Fimage\u002Fd17f97.jpg"}}}(null));
