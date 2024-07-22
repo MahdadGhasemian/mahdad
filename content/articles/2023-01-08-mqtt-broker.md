@@ -5,7 +5,7 @@ date: 2023-01-08
 description: Today I'm going to discuss how we can configure a mqtt broker with ssl certificate.
 image: /blog/mqtt-broker-2.png
 author: Mahdad Ghasemian
-draft: true
+draft: false
 ---
 
 ## Update system

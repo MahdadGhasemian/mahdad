@@ -5,7 +5,7 @@ date: 2023-07-25
 description: Let's configure an OpenVPN on two servers and connect them with SSH tunnel
 image: /blog/ssh-tunnel.png
 author: Mahdad Ghasemian
-draft: true
+draft: false
 ---
 
 ## On Server B (Foreign Server):
