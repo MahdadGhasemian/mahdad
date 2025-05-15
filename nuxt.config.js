@@ -11,7 +11,22 @@ export default {
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      {
+        hid: "description",
+        name: "description",
+        content: "Welcome to Mahdad's personal portfolio featuring projects and blog.",
+      },
+      { name: "author", content: "Mahdad" },
+      { name: "robots", content: "index, follow" },
+      { name: "theme-color", content: "#000000" },
+      { property: "og:title", content: "Mahdad's Portfolio" },
+      {
+        property: "og:description",
+        content: "Explore Mahdad's projects and blog posts on technology and development.",
+      },
+      { property: "og:type", content: "website" },
+      { property: "og:url", content: "https://mahdad.me" },
+      { property: "og:image", content: "https://mahdad.me/author.jpg" },
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
