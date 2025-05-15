@@ -6,19 +6,21 @@
       👋 Hi !
     </h2>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      I'm Mahdad!<br />
-      A former Electronic engineer with in-depth experience in embedded system (IOT)
-      design.<br class="hidden md:block" />
-      A Web developer and Devops enthusiastic.<br class="hidden md:block" />
-      I think that I am an interdisciplinary man with interest in learning new
-      things, especially in IT.<br class="hidden md:block" /><br class="hidden md:block" />
-
-      Currently, I’m a Software Engineer with +5 years of dedicated experience in Backend
-      development and DevOps operations. I specialize in developing and
-      maintaining high-performance systems. As a strong collaborator, I have a
-      proven track record of delivering projects and initiatives on time and
-      within budget. I bring more than 2 years of experience in Full Stack
-      development, particularly in successfully launching a CRM panel.
+      I'm Mahdad!<br /><br />
+      A backend-focused engineer with solid experience in DevOps and full-stack
+      development. Over the past several years, I've designed and built
+      scalable, high-performance backend systems and infrastructure, often from
+      the ground up.<br /><br />
+      My work spans developing APIs, managing cloud infrastructure, automating
+      CI/CD pipelines, and delivering production-ready services.<br />
+      I've also developed full-stack applications such as CRM panels, handling
+      everything from backend architecture and database design to frontend
+      integration.<br /><br />
+      While my career began in electronics and embedded systems, my focus has
+      since shifted entirely to software engineering, especially in the Backend
+      and DevOps space. This past experience gives me a strong problem-solving
+      foundation, but my current passion lies in building robust, reliable
+      software systems.
     </p>
   </div>
 </template>

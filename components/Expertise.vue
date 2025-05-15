@@ -1,23 +1,6 @@
 <template>
   <div class="mt-8">
-    <div class="mt-4">
-      <h2
-        class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
-      >
-        Embedded
-      </h2>
-      <ul class="mb-6 flex flex-wrap gap-4">
-        <li class="flex items-center">
-          <EmbeddedC class="h-10 w-10"></EmbeddedC>
-        </li>
-        <li class="flex items-center">
-          <RaspberryPi class="h-10 w-10"></RaspberryPi>
-        </li>
-        <li class="flex items-center">
-          <Arduino class="h-10 w-10"></Arduino>
-        </li>
-      </ul>
-    </div>
+    <!-- Backend -->
     <div class="mt-4">
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
@@ -45,6 +28,7 @@
         </li>
       </ul>
     </div>
+    <!-- DevOps -->
     <div class="mt-4">
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
@@ -78,6 +62,7 @@
         </li>
       </ul>
     </div>
+    <!-- Frontend -->
     <div class="mt-4">
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
@@ -103,7 +88,27 @@
         </li>
       </ul>
     </div>
+    <!-- Embedded -->
     <div class="mt-4">
+      <h2
+        class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
+      >
+        Embedded
+      </h2>
+      <ul class="mb-6 flex flex-wrap gap-4">
+        <li class="flex items-center">
+          <EmbeddedC class="h-10 w-10"></EmbeddedC>
+        </li>
+        <li class="flex items-center">
+          <RaspberryPi class="h-10 w-10"></RaspberryPi>
+        </li>
+        <li class="flex items-center">
+          <Arduino class="h-10 w-10"></Arduino>
+        </li>
+      </ul>
+    </div>
+    <!-- Crypto -->
+    <!-- <div class="mt-4">
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
@@ -117,7 +122,7 @@
           <Ipfs class="h-10 w-10"></Ipfs>
         </li>
       </ul>
-    </div>
+    </div> -->
   </div>
 </template>
 

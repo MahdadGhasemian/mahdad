@@ -16,6 +16,14 @@ const projectsData = [
     tags: ["Nodejs", "Nestjs", "Microservices", "Backend", "Mahdad", "Mahdad Ghasemian"]
   },
   {
+    title: "CRM-Panel (Saina Pars)",
+    description: `A CRM platform to streamline and optimize organizational workflows.`,
+    image: "/img/crm-panel.png",
+    href: "https://irtransfo.com/",
+    github: "#",
+    tags: ["Node.js", "Nest.js", "PostgreSql", "Redis", "Next.js", "React.js", "Material UI", "GitOps"]
+  },
+  {
     title: "Makancenter (Malaysia)",
     description: ``,
     image: "/img/makancenter.jpg",

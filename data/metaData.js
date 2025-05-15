@@ -2,7 +2,7 @@ const metaData = {
   title: "Mahdad",
   author: "Mahdad Ghasemian",
   author_image: "/author.jpg",
-  position: "Backend | DevOps | Embedded",
+  position: "Backend | DevOps | Fullstack | IOT",
   location: "Tehran, Iran",
   headerTitle: "Mahdad Ghasemian",
   slogan: "",
