@@ -1,10 +1,17 @@
-/**
- * Prism: Lightweight, robust, elegant syntax highlighting
+/*!
+ * The buffer module from node.js, for the browser.
  *
- * @license MIT <https://opensource.org/licenses/MIT>
- * @author Lea Verou <https://lea.verou.me>
- * @namespace
- * @public
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*!
+ * Vue.js v2.7.16
+ * (c) 2014-2023 Evan You
+ * Released under the MIT License.
  */
 
 
@@ -21,18 +28,11 @@
  */
 
 
-/*!
- * Vue.js v2.7.16
- * (c) 2014-2023 Evan You
- * Released under the MIT License.
- */
-
-
-/*!
- * The buffer module from node.js, for the browser.
+/**
+ * Prism: Lightweight, robust, elegant syntax highlighting
  *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
+ * @license MIT <https://opensource.org/licenses/MIT>
+ * @author Lea Verou <https://lea.verou.me>
+ * @namespace
+ * @public
  */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
