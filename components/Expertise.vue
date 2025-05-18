@@ -108,7 +108,7 @@
       </ul>
     </div>
     <!-- Crypto -->
-    <!-- <div class="mt-4">
+    <div class="mt-4">
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
@@ -122,7 +122,7 @@
           <Ipfs class="h-10 w-10"></Ipfs>
         </li>
       </ul>
-    </div> -->
+    </div>
   </div>
 </template>
 
