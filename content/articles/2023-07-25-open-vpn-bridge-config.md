@@ -1,9 +1,9 @@
 ---
 title: How to setup an OpenVPN by ssh tunnel (bridge mode)
-tags: vpn, open-vpn, ssh, ssh-tunnel, mahdad, mahdad ghasemian
+tags: vpn, open-vpn, ssh, ssh-tunnel, mahdad, mahdad ghasemian, مهداد قاسمیان
 date: 2023-07-25
 description: Let's configure an OpenVPN on two servers and connect them with SSH tunnel
-image: /blog/ssh-tunnel.png
+img: /blog/ssh-tunnel.png
 author: Mahdad Ghasemian
 draft: false
 ---

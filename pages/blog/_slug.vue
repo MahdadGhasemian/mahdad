@@ -28,7 +28,7 @@
     </div>
     <img
       class="mx-auto w-4/5 my-10 rounded-md drop-shadow-sm"
-      :src="article.image"
+      :src="article.img"
     />
 
     <nuxt-content class="prose min-w-full p-10 mx-auto" :document="article" />
@@ -57,6 +57,10 @@ export default {
     },
   },
   mounted() {
+    if (this.article.redirect) {
+      window.open(this.article.redirect, '_blank');
+      return;
+    }
     Prism.highlightAll();
   },
   head() {
