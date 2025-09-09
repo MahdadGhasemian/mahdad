@@ -1,5 +1,21 @@
 const projectsData = [
   {
+    title: "AI-Lab (Learning Roadmap)",
+    description: `AI-Lab is my personal roadmap documenting the progress of my journey into Artificial Intelligence, Machine Learning, and Deep Learning. It highlights completed milestones, ongoing studies, and planned next steps in areas such as LLMs, TensorFlow, PyTorch, MLOps, and AI system design.`,
+    image: "/img/ai-lab.png",
+    href: "https://mahdadghasemian.github.io/ai-lab/",
+    github: "#https://github.com/MahdadGhasemian/ai-lab",
+    tags: ["AI", "Machine Learning", "Deep Learning", "Roadmap", "Learning Journey", "Mahdad", "Mahdad Ghasemian"]
+  },
+  {
+    title: "OneClickTeach (Open Source)",
+    description: `OneClickTeach is a modular platform designed to make language teaching more accessible and enjoyable. It empowers teachers to create and manage their own teaching websites without technical expertise, featuring a Next.js frontend, NestJS API, infrastructure automation, and a desktop app for easy deployment.`,
+    image: "/img/one-click-teach.png",
+    href: "https://github.com/oneclickteach/oneclickteach-home",
+    github: "#https://github.com/oneclickteach/oneclickteach-home",
+    tags: ["Education", "Next.js", "TailwindCSS", "NestJS", "PostgreSQL", "Ansible", "Docker", "Electron", "Mahdad", "Mahdad Ghasemian"]
+  },
+  {
     title: "Hermit Crab (Open Source)",
     description: `Hermit Crab is a project designed to configure, deploy and manage Kubernetes clusters on bare-metal infrastructure using Ansible and Terraform. `,
     image: "/img/hermit-crab.png",
