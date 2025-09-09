@@ -43,7 +43,7 @@ const projectsData = [
     title: "Makancenter (Malaysia)",
     description: ``,
     image: "/img/makancenter.jpg",
-    href: "https://makancenter.com.my/",
+    href: "https://farasod.ir/",
     github: "#",
     tags: ["Golang", "MongoDB", "HetznerCloud"]
   },
@@ -51,9 +51,9 @@ const projectsData = [
     title: "Senjutei Kitchen (Malaysia)",
     description: ``,
     image: "/img/seakitchen.jpg",
-    href: "https://senjutei.makancenter.my/",
+    href: "https://farasod.ir/",
     github: "#",
-    tags: ["Node.js", "MongoDB", "CI/CD"]
+    tags: ["Node.js", "Expressjs", "MongoDB", "CI/CD"]
   },
   {
     title: "Access (Novaday)",
