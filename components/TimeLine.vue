@@ -1,7 +1,7 @@
 <template>
   <div class="opacity-100 mt-10">
     <ol class="relative border-l border-gray-200 dark:border-gray-700">
-      <!-- Freelancer -->
+      <!-- CityNet -->
       <li class="mb-10 ml-6">
         <span
           class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900"
@@ -12,7 +12,7 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Freelancer
+          Backend Developer at CityNet
           <span
             class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3 hidden md:inline-block"
             >Currently</span
@@ -35,7 +35,7 @@
           class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white"
         >
           <div class="flex flex-col md:flex-row">
-            Backend Devloper and DevOps Engineer at HB3M
+            Backend Developer and DevOps Engineer at HB3M
             <span class="hidden md:inline-block">&nbsp;</span>
             <span>(Malaysia - Remote)</span>
           </div>
