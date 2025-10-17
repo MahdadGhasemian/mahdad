@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1758684026",layout:"default",error:a,serverRendered:true,routePath:"\u002Fblog\u002F2025-06-30-nestjs-cheatsheet",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"e68170a4"}},_img:{"/_ipx/_/author.jpg":"\u002F_nuxt\u002Fimage\u002Fd17f97.jpg"}}}(null));
