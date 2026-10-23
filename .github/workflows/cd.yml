@@ -28,7 +28,7 @@ jobs:
         run: yarn generate
       
       - name: Ensure CNAME file
-        run: echo 'mahdad.me' > ./dist/CNAME
+        run: echo 'mahdad.site' > ./dist/CNAME
       
       - name: Create .nojekyll file
         run: touch ./dist/.nojekyll

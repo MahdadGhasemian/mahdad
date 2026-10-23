@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mahdad.me/sitemap.xml
+Sitemap: https://mahdad.site/sitemap.xml

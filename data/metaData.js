@@ -10,7 +10,7 @@ const metaData = {
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://mahdad.me",
+  siteUrl: "https://mahdad.site",
   siteRepo: "#",
   siteLogo: "../assets/author.jpg",
   image: "~/assets/author.jpg",
